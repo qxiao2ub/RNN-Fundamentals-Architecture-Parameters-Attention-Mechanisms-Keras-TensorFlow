@@ -44,3 +44,8 @@ Identify major training challenges (e.g., vanishing gradients)
 Understand why attention improves sequence modeling performance
 
 Conceptually compare RNN-based encoder–decoder models with attention-based models
+
+👤 Author
+
+Qingyang Xiao, PhD
+Senior Research Scientist
